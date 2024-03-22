@@ -1,8 +1,6 @@
 ### Hi 👋 my name is Tarteel
 
 - :books: I am a Software Engineering student
-- 🌱 I’m currently learning the MERN stack
-- 👯 I’m looking to collaborate on projects envolving nodeJS and mongoDB
 - 📫 How to reach me: `tarteelafattahibrahim@gmail.com`
 
 
