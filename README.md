@@ -1,6 +1,6 @@
 ### Hi 👋 my name is Tarteel
 
-- :books: I am a Software Engineering student
+- :books: I am a Software Engineer
 - 📫 How to reach me: `tarteelafattahibrahim@gmail.com`
 
 
